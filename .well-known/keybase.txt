@@ -1,0 +1,39 @@
+================================================================== https://keybase.io/sfotm -------------------------------------------------------------------- I hereby claim:
+  * I am an admin of http://www.stammen.me
+  * I am sfotm (https://keybase.io/sfotm) on keybase.
+  * I have a public key ASB3N6_rkPp9kQ0XH9BUlX1DNqvUsnfMq2hPQ70zae9R6Ao To do so, I am signing this object: {
+  "body": {
+    "key": {
+      "eldest_kid": "012045ed9dc55af293d2cdea5d5edf76328016ad3cca979bfe762891ac8cd6577a0e0a",
+      "host": "keybase.io",
+      "kid": "01207737afeb90fa7d910d171fd054957d4336abd4b277ccab684f43bd3369ef51e80a",
+      "uid": "518a8bd27f6d7a7e1b7dbe112888be19",
+      "username": "sfotm"
+    },
+    "merkle_root": {
+      "ctime": 1507419738,
+      "hash": "f171634112ba3a75951719e75d778729dbe385dbf94fd28e8f683900c6a1baf3a957b352505628524b9d0bb246a1d561fd4a07268b9c625620c065682ed5a472",
+      "hash_meta": "dfe3048643dfb34733c8764aaa6f691106c1f590f0377db393b1d0390c5bb5f7",
+      "seqno": 1537063
+    },
+    "service": {
+      "hostname": "www.stammen.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507419772,
+  "expire_in": 504576000,
+  "prev": "694e2b3c79a46d4a08d3cf7f8229ad9a17ef90dc65593f00dc0649c161e71f58",
+  "seqno": 15,
+  "tag": "signature"
+}
+which yields the signature: 
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdzev65D6fZENFx/QVJV9Qzar1LJ3zKtoT0O9M2nvUegKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDVlZDlkYzU1YWYyOTNkMmNkZWE1ZDVlZGY3NjMyODAxNmFkM2NjYTk3OWJmZTc2Mjg5MWFjOGNkNjU3N2EwZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzczN2FmZWI5MGZhN2Q5MTBkMTcxZmQwNTQ5NTdkNDMzNmFiZDRiMjc3Y2NhYjY4NGY0M2JkMzM2OWVmNTFlODBhIiwidWlkIjoiNTE4YThiZDI3ZjZkN2E3ZTFiN2RiZTExMjg4OGJlMTkiLCJ1c2VybmFtZSI6InNmb3RtIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3NDE5NzM4LCJoYXNoIjoiZjE3MTYzNDExMmJhM2E3NTk1MTcxOWU3NWQ3Nzg3MjlkYmUzODVkYmY5NGZkMjhlOGY2ODM5MDBjNmExYmFmM2E5NTdiMzUyNTA1NjI4NTI0YjlkMGJiMjQ2YTFkNTYxZmQ0YTA3MjY4YjljNjI1NjIwYzA2NTY4MmVkNWE0NzIiLCJoYXNoX21ldGEiOiJkZmUzMDQ4NjQzZGZiMzQ3MzNjODc2NGFhYTZmNjkxMTA2YzFmNTkwZjAzNzdkYjM5M2IxZDAzOTBjNWJiNWY3Iiwic2Vxbm8iOjE1MzcwNjN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LnN0YW1tZW4ubWUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3NDE5NzcyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjY5NGUyYjNjNzlhNDZkNGEwOGQzY2Y3ZjgyMjlhZDlhMTdlZjkwZGM2NTU5M2YwMGRjMDY0OWMxNjFlNzFmNTgiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAzRNT3xCbGIexDdmW+dI22npmfxAMIM5mqy3yjeUx0tId1TsEqPD/tBLxxlscAOmRcoJB1jnVc9Wm+hZs3RpRAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAUxoTkZ/nc5u1l0W8iUC6v5+Yzc8ItOHxh/5++hkdU5o3RhZ80CAqd2ZXJzaW9uAQ== 
+And finally, I am proving ownership of this host by posting or appending to this document. View my publicly-auditable identity here: https://keybase.io/sfotm
+==================================================================
