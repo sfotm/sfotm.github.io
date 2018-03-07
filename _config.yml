@@ -1,0 +1,18 @@
+name: Ben Stammen
+description: Software and Out-of-focus Pictures
+meta_description: "Ben Stammen"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://stammen.me'
+google_analytics: 'UA-XXXXXXXX-X'
+plugins:
+  - jekyll-paginate
+  - jemoji
+
+# Details for the RSS feed generator
+url:            'https://stammen.me'
+author:         'Ben Stammen'
