@@ -3,7 +3,7 @@ description: Software and Out-of-focus Pictures
 meta_description: "Ben Stammen"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
