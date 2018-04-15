@@ -14,7 +14,7 @@ offer, and you can never get tired of the views on display there. However, the s
 extra 10 inches of snow the day before (on top of what had accumulated over the winter), and neither I nor my
 hiking partner had snowshoes, so we decided to put it off for another day.
 
-We decided to head to [Poo Poo Point Trail](https://www.alltrails.com/trail/us/washington/poo-poo-point-trail) (writing that name feels ridiculus even now) instead. It's rated as moderately intense at a length of 6.7 miles and an elevation gain of over 2000 feet, and gave me a good chance to
+We decided to head to [Poo Poo Point Trail](https://www.alltrails.com/trail/us/washington/poo-poo-point-trail) (writing that name feels ridiculous even now) instead. It's rated as moderately intense at a length of 6.7 miles and an elevation gain of over 2000 feet, and gave me a good chance to
 try out some recently-purchased hiking boots without risk of too much discomfort. The trail was clearly maintained, pretty well-trafficked,
 and consistently upward sloping. That being said, it wasn't particularly unique or feature-filled - it's just a path to a peak.
 
