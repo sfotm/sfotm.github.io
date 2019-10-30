@@ -8,8 +8,8 @@ title: Home
 
 # Hello!
 
-I am a proud Software Development Engineer at Amazon.com and an alumnus of The Ohio State University's Computer Science and Engineering Program. I believe that through creating intuitive and powerful software, developers will take a large part in creating the world of tomorrow.
+I am a Software Development Engineer at Amazon.com and an alumnus of The Ohio State University's Computer Science and Engineering Program.
 
-In my free time, I like to develop games, mobile apps, and other things. When I'm not in front of a computer, you can find me kayaking, exercising, or hiking.
+In my free time, I enjoy reading, hiking, playing piano, taking photos, and learning about new things. I'm aiming to document these interests via this website. Hopefully, it'll encourage me to share things I've learned and to think a little more deliberately about them.
 
-I'm also a big proponent of self-hosted and open source software.
+Feel free to get in touch - contact information is at the bottom of the page. Anything sent by a human is welcome :)
