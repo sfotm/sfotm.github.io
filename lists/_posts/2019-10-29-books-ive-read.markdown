@@ -2,7 +2,6 @@
 layout: post
 title:  "Books I've Read"
 date:   2019-10-29
-excerpt: "A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts. Updated at the end of every month (or so help me)."
 categories: lists
 ---
 
