@@ -9,6 +9,31 @@ A reverse-chronological list of the books I've read. Longer reviews will take th
 
 # 2019
 
+## December
+
+Vacation! Lots of time to read.
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| The Rosie Project | Graeme Simsion | 3/5 |
+| To Kill a Mockingbird | Harper Lee | 5/5 |
+| The Da Vinci Code | Dan Brown | 3/5 |
+| How to Read a Book | Charles Van Doren; Mortimer J. Adler | 5/5 |
+
+**The Rosie project** comes recommended highly by Bill Gates. It's a fun read that tries to point out that you can't always look at life's challenges as something that can be "figured out" or "optimized". Hard work will take you places, but sometimes luck and unpredictable events will send you off course to elsewhere. See the [Gates Notes post](https://www.gatesnotes.com/Books/The-Rosie-Project) (Also see his recommendations in general [here](https://www.gatesnotes.com/Books)).
+
+**To Kill a Mockingbird** was on my "American classics that practically everyone is forced to read in high school but I somehow wasn't" list. An easy-to-read but important story about a man who follows his conscience despite it being unpopular, difficult, and even dangerous, told through the eyes of his children. Themes of prejudice and gradual societal change are prominent.
+
+**The Da Vinci Code** is a mystery thriller that puts readers through fictional actions used to uncover the truth behind an actual conspiracy theory. It lends from existing materials (e.g. New Testament, Da Vinci artwork, Paganism) to make arguments for the theory whilst the characters uncover it. I remember it being somewhat controversial back when I was in high-school, leading to some sort of [Streissand effect](https://en.wikipedia.org/wiki/Streisand_effect) taking place. I'm happy to hear that some Catholic groups have taken to using the material in *The Da Vinci Code* as a launching point for conversation rather than marking it as verboten, which is rarely, if ever, a good idea.
+
+I groaned through some of the symbological analysis by the protagonist and his compatriots, but kept reading because I'm an absolute sucker for any sort of conspiracy/mystery plot above the grade of *Scooby-Doo*. It's fairly annoying to read this for information given the blend of hard facts and logical leaps, and if you're looking for a history (critical or otherwise) of the Catholic church, definitely continue your reading elsewhere.
+
+**How to Read a Book** is a practical book that lays out how you should go about reading non-fiction books that deserve your full attention and focus, and in doing so, works towards convincing you that *actively* reading books is worth doing, and worth doing well. Many of the pointers are easy to guess at, even though it's rare to see them employed; reading the table of contents, categorizing a book as narrowly as possible, laying out the author's arguments before diving into them - these are all practices that, with practice and proper application, will save you from reading good books without comprehending them (i.e. becoming simultaneously widely and poorly read). It should also save you from reading poorly-written books almost entirely.
+
+A high-level overview is available [on Wikipedia](https://en.wikipedia.org/wiki/How_to_Read_a_Book). That being said, I highly encourage you to buy your own copy, along with a highlighter, and get to work on reading it cover to cover.
+
+I look forward to reading some of the [suggested books](https://en.wikipedia.org/wiki/How_to_Read_a_Book#Reading_list_(1972_edition)) in 2020.
+
 ## November
 
 | Title                      | Author | Rating        |
