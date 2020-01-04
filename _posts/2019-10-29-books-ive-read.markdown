@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title:  "Books I've Read"
 date:   2019-10-29
-categories: lists
+is_header_post: true
+is_collection: true
+last_updated_date: 2020-01-02
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
