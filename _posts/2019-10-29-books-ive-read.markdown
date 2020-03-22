@@ -4,10 +4,24 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2020-01-02
+last_updated_date: 2020-03-21
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
+
+# 2020
+
+## February
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| The Scarlet Letter | Nathaniel Hathaway | 5/5 |
+
+**The Scarlet Letter** is the first book I read from *How to Read a Book*'s Reading list. It's a different style of fiction than I'm used to - descriptions of emotion and imagery go into a great amount of detail, told beautifully. Maybe I'll do a more detailed writeup of what resonated with me personally in the future.
+
+## January
+
+No books read. I blame *Sapiens* - I disliked this book quite a bit and it made me slow down quite a bit as a result. Never did finish it.
 
 # 2019
 
