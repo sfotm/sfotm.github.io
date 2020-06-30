@@ -11,6 +11,51 @@ A reverse-chronological list of the books I've read. Longer reviews will take th
 
 # 2020
 
+## June
+
+COMING SOON :o
+
+## May
+
+Listen, **The Stand** is a long book. Such a long book. Then, Stephen King said, "Hey, you know that long book I wrote? Yeah, let's make it longer and publish it again."
+
+Also Reading **Black Wave**, but not commenting on it until I finish. It's a hard read given how unfamiliar I am with ~~Middle-Eastern names, geography, culture, history~~ the Middle-East.
+
+## April
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Never Split the Difference | Chris Voss | 4/5 |
+
+**Never Split the Difference** is a practical book on negotiation told by a man that has experience in high-stake negotiations where lives hang in the balance. It's a little odd to take that one-line summary at first glance and come away convinced that this will help you in negotiating mundane things that are a part of your every day life, like rent or a paycheck.
+
+The book is interesting in that it doesn't focus on game theory or intellectual arguments much at all. The keystone of the methods put forward by Voss is actually emotional intelligence (Voss coins the phrase "tactical empathy", which is actually kind of hilarious). He thinks that what his experience has taught him most is that a lot of kidnappers, bank robbers, and other would-be action movie characters don't barter using strong logic, not exclusively anyway, and neither does the average person on the street.
+
+He encourages empathizing with the people you're negotiating with, to call them generous and to keep your "late night FM DJ" voice on at all times. Ask open-ended questions and make them solve your problems ("How am I supposed to pay $X for this when this less expensive alternative is right in front of me?", "How am I supposed to do that?") while being as earnest, calm, and reasonable as you can manage to be - you and your counterpart are working together toward a solution. It's a pretty moral system if you approach it with the right mindset, or a pretty amoral one if you're a sociopath (sort of like "How to Win Friends and Influence People").
+
+## March
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Why We Sleep | Matthew Walker, PhD | 3/5 |
+
+**Why We Sleep** probably isn't a book you should bother reading cover-to-cover. Really, if you already know that sleep is good for you and that missing sleep is bad, you can probably do without it entirely. There's some interesting trivia about the stages of sleep and how its qualities might change from, say, childhood to adulthood, but nothing revolutionary. If you don't value sleep, this book might work as a "scared straight" sort of experience, because it turns out that this neuroscientist is pretty confident that missing sleep'll mess you up.
+
+There were 12 tips in the appendix that were nice to have. I'll put them down here for my own reference:
+
+1. Stick to a sleep schedule. Your brain likes regularly scheduled programming for some reason. iOS has a pretty good "Bedtime" feature that I use.
+2. Don't exercise too close to your scheduled bedtime. Keep a 2 to 3 hour padding in there.
+3. Avoid caffiene and nicotine, either one will mess up your sleep schedule. I imagine mixing them together would also be bad. There's around an eight hour cooldown on these, so I just avoid drinking coffee after noon.
+4. Avoid alcoholic drinks before bed - they mess up your REM cycle, and can tend to wake you up in the middle of the night. Day drinkers had it right all along.
+5. Avoid large meals and drinking a lot of liquids before bed.
+6. Avoid medication that delay or disrupt sleep.
+7. No naps after 15:00.
+8. Relax before bed. Read a book. Probably not this one.
+9. Taking a hot bath before you go to bed can help you go to sleep. There's the clear effect of relaxation, if you're not Bill Burr, and a drop in body temperature can help you feel sleepy (though I'm not sure why - maybe it's because your body drops in temperature when you sleep and your brain maps that to an increase in melatonin).
+10. Make your bedroom a temple for sleep. Remove gadgets if you can, keep it cool, and turn your clock's face out of view if you get anxious about falling asleep by `x` time.
+11. Have the right sunlight exposure throughout the day. If you can, wake up with the sun. Failing that, keep bright lights on in the morning. Then, when you're getting close to bedtime, turn the lights down.
+12. This one was *key* for me. Don't lie in bed awake. It's not doing anything, except probably delaying your sleep more by making you anxious about why you're not able to fall asleep. Do something relaxing until you feel sleepy.
+
 ## February
 
 | Title                      | Author | Rating        |
