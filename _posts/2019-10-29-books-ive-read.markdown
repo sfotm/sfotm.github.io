@@ -4,7 +4,7 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2020-06-29
+last_updated_date: 2020-06-30
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
@@ -13,7 +13,19 @@ A reverse-chronological list of the books I've read. Longer reviews will take th
 
 ## June
 
-COMING SOON :o
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| The Stand | Stephen King | 3/5 |
+
+**The Stand** was pitched to me as one of Stephen King's most popular books. Generally speaking, constant readers of King either like *It* or *The Stand* the most. Neither of these are King's own favorite - that title goes to *Lisey's Story*, a book I have not read.
+
+The book starts off strongly with a pretty wide cast of characters. There's Franny Goldsmith, Stuart Redman, a newly hired deaf-mute deputy, some guys on an army base, a mentally deranged arsonist that goes by "Trashcan Man", and even more where that came from. It's a pretty large ensemble of varied characters that lovers of *It* would probably take as a good sign, since *It* did a really good job of taking sets of disjoint characters and throwing them all into a ring together.
+
+That's why this book fell a little flat for me - the characters, so good alone, were never built into something that was better than the sum of their parts, or even equal to it. Characters that were much stronger on their own, such as Fran and Stuart, were both less interesting once they met. Stuart went from being a stoic man of quiet strength to being a stock male character that acted predictably. Fran went from being an independent woman that was going to carve her own way in the world to becoming a doting wife. I'm not saying that the characters act irrationally, or that there's anything wrong with the people they become in principle. It just means they're not terribly interesting to listen to, even if they're endangering their life or acting selflessly. It's especially disappointing since the characters had real promise earlier on in the book. *It* did not have this problem - to my recollection, every character had a solid trajectory throughout the span of that book.
+
+Pretty disappointed in how the R.F. side of the story concluded, too. Stephen King knows how to write a villain cloaked in shadow *very* well. He shares terrifying details that scare you while simultaneously making you want more. When the story starts asking how this character might meet it's demise, though, Stephen King draws a serious blank. This was actually one of the better villain endings he's written (not as good as *It*'s), but it's still a disappointment. R.F.'s defeat isn't surprising or all that interesting, but the character himself *was*. That disparity is why I feel disappointed.
+
+Overly long with some disappointing characters. Worth a read, but if you're looking for my favorite Stephen King book, this isn't it. He's written better stories in fewer pages.
 
 ## May
 
