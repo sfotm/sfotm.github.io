@@ -4,12 +4,26 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2020-06-30
+last_updated_date: 2020-09-04
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
 
 # 2020
+
+## August
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Catcher in the Rye | J. D. Salinger | 4/5 |
+| Brave New World | Aldous Huxley | 4/5 |
+
+## July
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Parable of the Sower | Octavia E. Butler | 2/5 |
+| Their Eyes Were Watching God | Zora Neale Hurston | 5/5 |
 
 ## June
 
