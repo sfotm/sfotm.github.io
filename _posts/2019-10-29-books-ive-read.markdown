@@ -4,12 +4,40 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2020-09-04
+last_updated_date: 2020-09-30
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
 
+Here's the rating scale as I see it:
+
+| Rating                      | Reasoning |
+| ---------------------------| ------ |
+| 1/5 | No real reason to read - not entertaining or informative. |
+| 2/5 | Has merit, but has serious flaws in narrative or focus.
+| 3/5 | Worth a read, but not something I feel you're missing out on. |
+| 4/5 | A very good book, and a recommendation I'd eagerly hand out. |
+| 5/5 | A very good book that also holds some uniqueness that makes it especially worth reading. It has a unique perspective not easily found in other books. |
+
+Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
+
 # 2020
+
+## September
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Harry Potter and the Sorcerer's Stone | J.K. Rowling | 3/5 |
+| Harry Potter and the Chamber of Secrets | J.K. Rowling | 4/5 |
+| The Good Earth | Pearl S. Buck | 5/5 |
+
+**The Harry Potter Series** is a really well executed run of fantasy novels, and this is my first time going through them all. Growing up watching the movies, I'd always heard from readers-turned-watchers that there were plot points missing from the movies entirely, quotes reassigned to different roles, and scenes invented for the sake of the film adaptation. All of that is true, and it's going to become increasingly evident, I've been told, the further I go into the series.
+
+I'd say my favorite bit of the books I've read that are unique to the books would be the character introduction for Vernon Dursley. The movie doesn't capture his love for drills at all.
+
+**The Good Earth** earns a 5/5 for its dive into early 20th Century Chinese culture. It follows Wang Lung, born a poor farmer's boy, from his early adulthood up until his death, detailing a lifestyle completely foreign to me; the novel begins with him retrieving his never-before-seen wife-to-be, a slave purchased by his father, from her master's palace.
+
+It's difficult to root for Wang at times. He hurts and endangers people close to him in ways that are reprehensible by modern standards. At the same time, he's an intensely moral person - he's just playing by a different rule book. It's an interesting thought exercise to think about the things that Wang does (and we do) just to belong to a part of larger society, and how much a person's life and personality can vary based on the time and place they inhabit.
 
 ## August
 
@@ -23,6 +51,7 @@ A reverse-chronological list of the books I've read. Longer reviews will take th
 | Title                      | Author | Rating        |
 | ---------------------------| ------ | ------------- |
 | Parable of the Sower | Octavia E. Butler | 2/5 |
+| Ohio | Stephen Markley | 5/5 |
 | Their Eyes Were Watching God | Zora Neale Hurston | 5/5 |
 
 ## June
