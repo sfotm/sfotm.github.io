@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Books I've Read"
-date:   2019-10-29
+date:   2019-11-02
 is_header_post: true
 is_collection: true
 last_updated_date: 2020-09-30
@@ -51,9 +51,9 @@ There are other themes at play that I found interesting to think about:
 
 Self-policing communities also come up positively in the book (i.e. deputies are in the pockets of the Farmer's Association, so nobody wanted them involved in the Hoovervilles or other camps if it could be helped), which is interesting given where social attentions are at right now.
 
-As for the writing style, I'm all about American colloquialisms and country accents, so when "Rose of Sharon is going to have a baby" get's translated to "Rosasharn's in a fambly kinda way", or someone says "Ain't no pork without a shoat", I'm all about it. The scenes are easy to follow and it reads pretty easily - you don't need to go diving for the core message of the book. Intercalary segments frame the trip of a family within the bigger picture: hundreds of families moving West, all at once, many suffering. It's a good literary device for what's being conveyed, and they break up the dialogue and action nicely.
+As for the writing style, I'm all about American colloquialisms and country accents, so when "Rose of Sharon is going to have a baby" gets translated to "Rosasharn's in a fambly kinda way", or someone says "Ain't no pork without a shoat", I'm all about it. The scenes are easy to follow and it reads pretty easily - you don't need to go diving for the core message of the book. Intercalary segments frame the trip of a family within the bigger picture: hundreds of families moving West, all at once, many suffering. It's a good literary device for what's being conveyed, and they break up the dialogue and action nicely.
 
-**Of Mice and Men** is sort of "Grapes of Wrath Light". It holds a lot of the same themes, but is a lot shorter and has a more colorful cast of characters. You can read the thing in an afternoon, and even though it's not as thematically dense as Grapes of Wrath, it's a lot more efficient in saying what it wants to say. Just read it.
+**Of Mice and Men** is sort of "Grapes of Wrath Light". It holds a lot of the same themes, but is a lot shorter and has a more colorful cast of characters. You can read the thing in an afternoon, and even though it's not as thematically dense as Grapes of Wrath, it's a lot more efficient in saying what it wants to say. Really hard to go wrong here.
 
 ## September
 
