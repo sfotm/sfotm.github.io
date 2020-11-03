@@ -23,12 +23,44 @@ Note that I came up with the above in September 2020, so my earlier ratings may 
 
 # 2020
 
+## October
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Harry Potter and the Prisoner of Azkaban | J.K. Rowling | 3/5 |
+| The Grapes of Wrath | John Steinbeck | 5/5 |
+| Of Mice and Men | John Steinbeck | 4/5 |
+
+**Harry Potter and the Prisoner of Azkaban** seems like the taking-off point for the series in some ways, but I'd guess it's more similar to the installments before it than to the ones after it. If you've seen the movies, you know that things really kick into a higher gear once you hit year four: things stop getting wrapped into a nice little bow, and the novels no longer stand on their own. PoA introduces some darker themes, but still works as a standalone adventure, as the events within the book don't really carry on past it. Obviously Sirius Black is introduced as a character, but he could have just as easily not have been in prison in the first place. Admittedly, that would make his character a lot less interesting.
+
+Really looking forward to the next few, it's a nice way to have a break between denser books.
+
+**The Grapes of Wrath** might be my book of the year. It follows the migration of a family from the Dust Bowl during the Great Depression. They head toward California with the impression that there's work to be had there, high-paying work that would set a family up to be well-fed and landed. When they arrive, already having survived a difficult journey, they find out that the West is not what they expected.
+
+The novel faced some hard times when it first came out, and was burned in some cases. It lambasts the Farmer's Association that was in power in California at the time for treating immigrants very poorly, enstating wage caps and actively disrupting attempts at unionization.
+
+Simultaneously, if Steinbeck is credible, some fields remain untouched because they fruit they've bourne can't be turned for a profit at any labor costs, and so it's left to wither there; it cannot be given away for free, as you can't sell an orange for ten cents at the grocery if you're giving them away for free by the bushel in a nearby field. Therein, Steinbeck argued, is a systemic failure - the crop disappears as hundreds of families starve some number of miles away.
+
+And so the largest argument being made, by far, is that unfettered capitalism doesn't serve a society well if you'd say that people starving to death is an undesirable thing to have happening in a society (I'd agree with that). Of course, America has a mixed economy like just about any nation, and we've introduced some number of social programs since then that seem to have raised the floor away from having to drive from town to town for work that exploits your situation so that your kids don't starve.
+
+There are other themes at play that I found interesting to think about: 
+* The loss of an identity that happened when these farmers left their land
+* The dissolution of the family unit
+* Perserverance through hardships
+  * The Joads were poor and flat broke, but they never gave out, and as cheesy as that sounds, I think it's important. You can't ascribe their situation to poor work ethic or resentment.
+
+Self-policing communities also come up positively in the book (i.e. deputies are in the pockets of the Farmer's Association, so nobody wanted them involved in the Hoovervilles or other camps if it could be helped), which is interesting given where social attentions are at right now.
+
+As for the writing style, I'm all about American colloquialisms and country accents, so when "Rose of Sharon is going to have a baby" get's translated to "Rosasharn's in a fambly kinda way", or someone says "Ain't no pork without a shoat", I'm all about it. The scenes are easy to follow and it reads pretty easily - you don't need to go diving for the core message of the book. Intercalary segments frame the trip of a family within the bigger picture: hundreds of families moving West, all at once, many suffering. It's a good literary device for what's being conveyed, and they break up the dialogue and action nicely.
+
+**Of Mice and Men** is sort of "Grapes of Wrath Light". It holds a lot of the same themes, but is a lot shorter and has a more colorful cast of characters. You can read the thing in an afternoon, and even though it's not as thematically dense as Grapes of Wrath, it's a lot more efficient in saying what it wants to say. Just read it.
+
 ## September
 
 | Title                      | Author | Rating        |
 | ---------------------------| ------ | ------------- |
 | Harry Potter and the Sorcerer's Stone | J.K. Rowling | 3/5 |
-| Harry Potter and the Chamber of Secrets | J.K. Rowling | 4/5 |
+| Harry Potter and the Chamber of Secrets | J.K. Rowling | 3/5 |
 | The Good Earth | Pearl S. Buck | 5/5 |
 
 **The Harry Potter Series** is a really well executed run of fantasy novels, and this is my first time going through them all. Growing up watching the movies, I'd always heard from readers-turned-watchers that there were plot points missing from the movies entirely, quotes reassigned to different roles, and scenes invented for the sake of the film adaptation. All of that is true, and it's going to become increasingly evident, I've been told, the further I go into the series.
