@@ -4,7 +4,7 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2020-11-02
+last_updated_date: 2020-12-01
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
@@ -22,6 +22,13 @@ Here's the rating scale as I see it:
 Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
 
 # 2020
+
+## November
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| The Alchemist | Paulo Coelho | 5/5 |
+| The Book on Rental Property Investing: How to Create Wealth with Intelligent Buy and Hold Real Estate Investing | Brandon Turner | 3/5 |
 
 ## October
 
