@@ -4,7 +4,7 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2020-12-01
+last_updated_date: 2021-01-11
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
@@ -22,6 +22,14 @@ Here's the rating scale as I see it:
 Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
 
 # 2020
+
+## December
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Cold Sassy Tree | Olive Ann Burns | 3/5 |
+
+**Cold Sassy Tree** is a slice-of-life novel that follows a boy named Will Tweedy in early 20th Century Georgia. A lot of the focus is on his grandfather, Mr. E Rucker Blakeslee, as he continuously defies societal expectations. It doesn't cling to themes (individualism is the strongest, I think) or pander, it's just sort of a sequence of events that happens.
 
 ## November
 
