@@ -15,11 +15,37 @@ Here's the rating scale as I see it:
 | ---------------------------| ------ |
 | 1/5 | No real reason to read - not entertaining or informative. |
 | 2/5 | Has merit, but has serious flaws in narrative or focus.
-| 3/5 | Worth a read, but not something I feel you're missing out on. |
+| 3/5 | Worth a read, but not something I feel you're seriously missing out on. |
 | 4/5 | A very good book, and a recommendation I'd eagerly hand out. |
 | 5/5 | A very good book that also holds some uniqueness that makes it especially worth reading. It has a unique perspective not easily found in other books. |
 
 Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
+
+# 2021
+
+## January
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| A Farewell to Arms | Earnest Hemingway | 4/5 |
+| Eleanor Oliphant is Completely Fine | Gail Honeyman | 3/5 |
+| The Bell Jar | Sylvia Plath | 4/5 |
+
+Both **A Farewell to Arms** and **The Bell Jar** are semi-autobiographical - I had no idea about that going in, but enjoyed them both.
+
+**A Farewell to Arms** is a really approachable novel that starts off in Italy during World War One. It starts off feeling a little like a less-absurd **Catch 22**, focusing on the ambivalence of soliders in a war they don't want to participate in, but moves in a different direction as the plot moves forward. Hemingway doesn't use very flowery words, but manages to paint a pretty picture anyway. Ever since I've read this, I've been trying to make what I write at work and in life a little more plain, too.
+
+I thought **Eleanor Oliphant is Completely Fine** was going to be a female analogue to **The Rosie Project**. It started off in that direction, but it ended up deviating from that expectation quite a bit. Some of the plot points intended to be surprising were somewhat obvious, but it was still plenty enjoyable.
+
+**The Bell Jar** is interesting in that it follows the crack-up of Sylvia Plath during her college years. Though it's not entirely true to life, it is semi-autobiographical. There are letters from Plath's mother discouraging the publishing of the novel, saying that it could stand to hurt some people that are only thinly disguised within the novel.
+
+The title refers to a sensation that Esther Greenwood increasingly feels - that she's become captive within herself, breathing air within a bell jar that's descended upon her. After a few close encounters with death, she finds help and manages to lift that jar (notably with the help of electroconvulsive therapy, which I've learned is still used for treatment-resistant cases). But the ending is bittersweet - you never know when that glass cage might come back down.
+
+This book actually came onto my books to read list when I realized that a quote I really like came from it. It was used in the TV series **Master of None**, which is where I first heard it. I thought it was from **The Kite Runner** for the longest time, but it turns out the two fig trees have nothing to do with each other. Here's the quote:
+
+> I saw my life branching out before me like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, and another fig was Ee Gee, the amazing editor, and another fig was Europe and Africa and South America, and another fig was Constantin and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and another fig was an Olympic lady crew champion, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.
+
+I'm not a frequent reader of poetry, but Plath has a way with words without needing to pull out the flowery ones. Maybe I'll pick up a collection of hers sometime.
 
 # 2020
 
