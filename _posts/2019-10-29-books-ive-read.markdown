@@ -4,7 +4,7 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2021-01-11
+last_updated_date: 2021-02-05
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
@@ -22,6 +22,56 @@ Here's the rating scale as I see it:
 Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
 
 # 2021
+
+## February
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Greenlights | Matthew McConaughey | 3/5 |
+| Anxious People | Fredrik Backman | 1/5 |
+| The Picture of Dorian Gray | Oscar Wilde | 4/5 |
+
+**Greenlights** isn't a book that I would have picked up if it hadn't been recommended to me. I have the impression that releasing a book is just something that someone does once they hit a certain level of celebrity. You have a built in audience for the book, ghostwriters probably don't make all that much, and it creates a little more legacy, so the figures look good enough for someone to get the process rolling. 
+
+Greenlights is written by Mr. McCanaughey himself, though. I took that as a good sign, thinking it would feel more authentic. It also had the benefit of being read by its author on the Audible store - I didn't know what his writing was like, but I knew he could deliver lines pretty well. It also meant that I didn't have to spend productive time reading it.
+
+I don't know if I took much away from it, but it was entertaining, especially when it came to the stories he had from childhood. Worth a listen, but maybe not a read.
+
+**Anxious People** is a work of fiction that starts off pretty promising. It kicks off as a crime thriller - a bank robbery has taken place, and hostages have been taken. The stage is set and stakes are high. The shuffled chronology of the story is like a Tarantino movie, and I like what it promises: a fresh take on a hostage drama. Perhaps the title refers to some sort of [tactical empathy](https://blog.blackswanltd.com/the-edge/how-to-use-fbi-empathy) used by a hostage negotiator to talk the robber down. Maybe we learn the robbery was justified in a sort of twist. The book has a lot going for it after the setup.
+
+...and then everything goes south. Some of it is personal, and some of it is just bad narrative.
+
+1. _The witness interviews are borderline insufferable._ They're peppered in between chapters detailing the actual hostage event to add, I think, additional color, character development, and because they're generally a fun way to shake up the format a little bit. They're a trope for a reason. In this book, though, they're mostly just an opportunity for the interviewees to act like they're auditioning for the cast of **Mean Girls** and to berate the people who are trying to resolve what happened to the bank robber who seemingly took them as hostages under the threat of violence. Even besides that, the punchy back-and-forth dialogue the author is going for just doesn't ring true.
+
+Here's an outtake from one of the interviews. Jim is an investigator, and Zara is a senior bank executive that was taken hostage at a house showing:
+
+> JIM: I feel stupid now.
+
+> ZARA: I don't suppose that's a new feeling for you.
+
+> JIM: If I'd known you ran a bank, obviously I wouldn't have said that. Well, I mean, I shouldn't have said it anyway. I'm not really sure what to say now.
+
+> ZARA: In that case, perhaps I can just leave?
+
+> JIM: No, hold on. Look, this is all a bit embarrassing. My wife has often told me that I should just keep my mouth shut. I'll stick to my questions from now on, okay?
+
+> ZARA: Let's give it a try.
+
+I wish I could say that this interview was uniquely bad and that it could be ascribed to two bad individual characters, but it's not. All of the witness interviews have the same uncharming rhythm and rapport. The "men-are-kind-of-stupid-and-unenlightened" sentiment that's pushed at some points in the book isn't something I appreciate, either, but that's beside the point.
+
+2. _There's no real risk of things going south._ The story pulls you in with the premise of a high-stakes bank robbery, and then reneges on it: now you learn that the story isn't so much about the robber - it's about the people in the hostage situation and how they interact with each other. The hostage taker is shown pretty early on to be harmless, and even open to taking suggestions on how to resolve the situation from the "hostages" they've taken. At that point, you basically have two well-meaning but confused cops trying to figure out what the hell happened to the robber that's turned into a protagonist. At this point, there's no longer any conflict, and you're either continuing to read because you're a completionist held hostage (the irony!), or because you've grown attached to the characters (which seems a lot less likely given point 3).
+
+3. _The author has almost no unique voice in this book._ The setup and premise start off as promising, but as the book increasingly leans on the characters to carry the story on through dialogue without any compelling action taking place, it falls apart because none of the characters have anything interesting to say. It reminds me of a Tom Segura bit I like:
+
+> I feel like… the worst part, honestly, of traveling in our country is that there’s no surprises. I swear to you, I travel every week, and it’s really a disappointment. Every place is exactly what I thought it was going to be. You know? I can prove it to you. Picture a place you’ve never been to in this country. Picture it. That’s exactly how it is. [laughter] What are the people like, you wonder? What do you think they’re like? That’s right.
+
+Picture a conversation between a repressed middle-aged mother and a young newer-fashioned woman about to have her first child as written by a left-leaning author. Picture it. That's exactly how it is. Imagine the subject matter those conversations would cover, and how these people might grate against each other, and which one is seen in favorable light. Imagine it. That's right. Repeat for all of the other interactions, which, again, are the main focus of the book.
+
+This designed-by-committee feel touches a lot of things in this book, and it feels as though Backman doesn't have a lot of himself in it. If the author isn't willing to show up for the story, why should readers?
+
+**The Picture of Dorian Gray** went unexpectedly well for me. I went into it feeling as though I signed up for an adventure that took place in the world of **Pride and Prejudice**, a book that I failed to read to completion in high school, partially because I didn't enjoy reading as much as I do now, and partially because I found it all rather hard to relate to. To wit, I didn't have high expectations for this book, even though I expected it to be well-written and meaningful on some level.
+
+Instead, it was a great read - I don't want to spoil much of this book because it goes in unexpected directions, espescially at first. Essentially, it becomes the story of a man wrestling with the well-being of his soul.
 
 ## January
 
