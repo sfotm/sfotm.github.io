@@ -4,7 +4,7 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2021-03-06
+last_updated_date: 2021-05-09
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
@@ -22,6 +22,27 @@ Here's the rating scale as I see it:
 Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
 
 # 2021
+
+## April
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Harry Potter and the Order of the Phoenix | J.K. Rowling | 4/5 |
+
+## March
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| The Ethics of Authenticity | Charles Taylor | 5/5 |
+| Harry Potter and the Goblet of Fire | J.K. Rowling | 4/5 |
+
+**The Ethics of Authenticity** is a really interesting read. It's not about authenticity in the way you might normally use the word, where it's sort of tied in with exterior truthfulness or integrity. It's more about individuals chasing self-fulfullment in life and what the repercussions of that might be. It's sort of odd to talk about because it's a principal so consistently held in American culture that you forget that it's not a set philosophy. Cultures can push for a shared value system or morality, for instance, with punishments agreed upon for people that run afoul of them. With the exception of core humanitarian principles, the modern word is shying away from having a clear-cut "approved lifestyle" for people to live. What can be surprising to some is that there are pros and cons to this.
+
+Taylor sets up three malaises, but speaks mostly toward the first. Then, he uses the discussion of the first malaise to dig into the two others. The three malaises felt in modern times, as defined by Taylor, are:
+
+1. The increased focus on the individual, which seems to instil nihilism.
+1. The primacy of instrumental reason, which has bolstered scientific advances and bolstered quality of life for many, but can lead us astray at times.
+1. The disattachment of the average person to government, and in loss of interest in participating in the process of self-governing.
 
 ## February
 
