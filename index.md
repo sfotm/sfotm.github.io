@@ -8,8 +8,8 @@ title: Home
 
 # Hello!
 
-I am a Software Development Engineer at Amazon.com and an alumnus of The Ohio State University's Computer Science and Engineering Program.
+I am a Software Development Engineer at AWS SageMaker and an alumnus of The Ohio State University's Computer Science and Engineering Program.
 
-In my free time, I enjoy reading, hiking, playing piano, taking photos, and learning about new things. I'm aiming to document these interests via this website. Hopefully, it'll encourage me to share things I've learned and to think a little more deliberately about them.
+In my free time, I enjoy reading, playing piano, riding my bike, writing, and learning about new things. Some of these things will end up documented here, but it's mostly a glorified resume and reading list.
 
 Feel free to get in touch - contact information is at the bottom of the page. Anything sent by a human is welcome :)

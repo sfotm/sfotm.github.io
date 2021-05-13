@@ -1,3 +1,7 @@
 # sfotm.github.io
 
-This is my personal site (accessible via https://stammen.me). Let me know if certs are broken!
+This is my personal site, hosted at https://stammen.me.
+
+## Development
+
+Run `bundle exec jekyll serve`.
