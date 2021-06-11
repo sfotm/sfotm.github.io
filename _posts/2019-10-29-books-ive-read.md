@@ -4,7 +4,7 @@ title:  "Books I've Read"
 date:   2019-10-29
 is_header_post: true
 is_collection: true
-last_updated_date: 2021-05-09
+last_updated_date: 2021-06-10
 ---
 
 A reverse-chronological list of the books I've read. Longer reviews will take the form of separate posts, theoretically speaking. Updated at the end of every month (or so help me).
@@ -22,6 +22,17 @@ Here's the rating scale as I see it:
 Note that I came up with the above in September 2020, so my earlier ratings may not reflect it exactly. For example, I think *Catcher in the Rye* probably deserves a 5/5 given the above scale, whereas *It* would probably be downgraded to a 4/5, as it's essentially a *very very good* execution on the Stephen King horror genre while not separating from the group entirely.
 
 # 2021
+
+## May
+
+| Title                      | Author | Rating        |
+| ---------------------------| ------ | ------------- |
+| Harry Potter and the Half-Blood Prince | J.K. Rowling | 4/5 |
+| Harry Potter and the Deathly Hallows | J.K. Rowling | 4/5 |
+| Pimp | Iceberg Slim | 5/5 |
+| A Tree Grows in Brooklyn | Betty Smith | 5/5 |
+
+Pretty good month of reading. No misses!
 
 ## April
 
